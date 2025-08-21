@@ -49,7 +49,7 @@ async def entrypoint(ctx: agents.JobContext):
     session = AgentSession(
         # Using OpenAI Realtime API for everything
         llm=openai.realtime.RealtimeModel(
-            voice="coral",
+            voice="echo",
         ),
         vad=silero.VAD.load(),
     )
