@@ -1,0 +1,13 @@
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-silero
+livekit-plugins-google
+livekit-plugins-noise-cancellation
+mem0ai
+duckduckgo-search
+langchain_community
+requests
+python-dotenv
+Flask==2.3.3
+Flask-SocketIO==5.3.6
+python-socketio==5.8.0
